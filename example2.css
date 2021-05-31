@@ -1,0 +1,19 @@
+input {
+  border: 9px solid #341763;
+}
+
+.text {
+  color: #341763;
+  background-color: #ff6347;
+  margin: 0px;
+}
+
+.top {
+  background-color: #ffff00;
+}
+
+#unique {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 40px;
+  cursor: not-allowed;
+}

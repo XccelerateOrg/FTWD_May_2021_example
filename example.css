@@ -1,0 +1,8 @@
+body {
+  background-image: url("./pendant_med_1.jpg");
+  background-size: cover;
+}
+h1 {
+  color: #00ff00;
+  background-color: red;
+}
