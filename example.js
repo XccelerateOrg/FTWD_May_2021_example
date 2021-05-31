@@ -1,4 +1,4 @@
-// console.log("The JavaScript is running!");
+console.log("The JavaScript is running!");
 
 // let count = 0;
 
