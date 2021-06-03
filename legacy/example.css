@@ -1,0 +1,20 @@
+body {
+  background-image: url("./pendant_med_1.jpg");
+  background-size: cover;
+}
+h1 {
+  font-family: "Limelight";
+  color: #00ff00;
+  background-color: red;
+}
+
+.box {
+  background-color: #1e1d5c;
+  height: 100px;
+  width: 100px;
+  margin: 20px;
+}
+
+.height {
+  height: 60vh;
+}
